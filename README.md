@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @therealKJ1
 - 👀 I’m interested in Homebrew Stuff.
-- 🌱 I’m currently learning IDk.
+- 🌱 I’m currently learning IDK.
 - 💞️ I’m looking to collaborate on IDK.
 - 📫 How to reach me: Discord.
 - 😄 Pronouns: Im Male.
