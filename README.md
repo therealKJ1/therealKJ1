@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @therealKJ1
 - 👀 I’m interested in Homebrew Stuff.
-- 🌱 I’m currently learning IDK.
+- 🌱 I’m currently learning everything IT.
 - 💞️ I’m looking to collaborate on building cities with @TheRustico36.
 - 📫 How to reach me: Discord.
 - ⚡ Fun fact: @TheRustico36 is not a member of the Chinese Communist Party.
