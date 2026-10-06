@@ -2,8 +2,8 @@
 - 👀 I’m interested in Homebrew Stuff.
 - 🌱 I’m currently learning everything IT.
 - 💞️ I’m looking to collaborate on building cities with @TheRustico36.
-- 📫 How to reach me: Discord.
-- ⚡ Fun fact: @TheRustico36 is not a member of the Chinese Communist Party.
+- 📫 How to reach me: Discord, WhatsApp.
+- ⚡ Fun fact: GitHub ProfilePictues have to be less than 8mb :(
 
 <!---
 therealKJ1/therealKJ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
