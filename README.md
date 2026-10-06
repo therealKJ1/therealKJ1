@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything IT.
 - 💞️ I’m looking to collaborate on building cities with @TheRustico36.
 - 📫 How to reach me: Discord, WhatsApp.
-- ⚡ Fun fact: GitHub ProfilePictues have to be less than 8mb :(
+- ⚡ Fun fact: Schanderl Industries is the world leader in IT Research and Problemsolving.
 
 <!---
 therealKJ1/therealKJ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
